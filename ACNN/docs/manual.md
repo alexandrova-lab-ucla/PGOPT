@@ -2,8 +2,7 @@
 
 1. Download `anaconda2`. See `https://www.continuum.io/downloads`.
 ```bash
-curl https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh \
-    -o Anaconda2-4.2.0-Linux-x86_64.sh
+curl https://repo.anaconda.com/archive/Anaconda2-4.2.0-Linux-x86_64.sh -o Anaconda2-4.2.0-Linux-x86_64.sh
 bash Anaconda2-4.2.0-Linux-x86_64.sh
 source ~/.bashrc
 ```
